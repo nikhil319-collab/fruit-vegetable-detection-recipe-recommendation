@@ -112,7 +112,21 @@ The trained model successfully detected multiple refrigerator items including:
 
 Detection outputs include bounding boxes and confidence scores for each identified object.
 
----
+## Detection Results
+
+![Detection Result 1](detection_output_1.png)
+
+![Detection Result 2](detection_output_2.png)
+
+## Training Performance
+
+![Training Results](training_result.png)
+
+## Recipe Recommendation Results
+
+![Recipe Recommendation 1](recipe_recommendation_1.png)
+
+![Recipe Recommendation 2](recipe_recommendation_2.png)
 
 ## 👨‍💻 My Contribution
 
